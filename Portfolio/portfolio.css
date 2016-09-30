@@ -1,0 +1,11 @@
+body{
+	font-family: "Marker Felt", "Cooper Black", fantasy;
+	  background-color: #90EE90;
+	color: #800000;
+}
+</* Code above used to alter font, and font color, and body color.*/>
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+}
+</* Code above used to change alignment and size of heading */>
